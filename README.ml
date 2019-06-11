@@ -1,5 +1,12 @@
-War Instructions
+#War Instructions
 Card game by Jackson Huffman
+
+## Getting Started
+In order to play this game, you will need to compile the application in Visual Studio. You will also need
+the PNG files for an entire deck of cards, as well as a PNG for a flipped card. An example can be found from:
+* [MyBigCommerce](http://acbl.mybigcommerce.com/52-playing-cards/)
+
+### Playing the Game
 
 The card game is played by taking a deck of 52 cards, and shuffling them.
 The deck is then dealt to two players until each player has 26 cards.
@@ -24,7 +31,7 @@ three more, putting a total of 6 cards per player in the pile. This means that t
 greatly changes the dynamic of the game, and makes the game actually winnable.
 
 
-How to Play
+### How to Play
 
 Playing the game is extremely easy. One only needs to click the "Flip" button to
 compare cards between players. I recommend moving the main window so that the "Flip"
