@@ -1,4 +1,4 @@
-#War Instructions
+# War Instructions
 Card game by Jackson Huffman
 
 ## Getting Started
