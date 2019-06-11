@@ -1,0 +1,15 @@
+\\matrix.col.missouri.edu\ENGR-MUGL\jehn83\Desktop\War\War\bin\Debug\War.exe.config
+\\matrix.col.missouri.edu\ENGR-MUGL\jehn83\Desktop\War\War\bin\Debug\War.exe
+\\matrix.col.missouri.edu\ENGR-MUGL\jehn83\Desktop\War\War\bin\Debug\War.pdb
+\\matrix.col.missouri.edu\ENGR-MUGL\jehn83\Desktop\War\War\obj\Debug\War.csprojResolveAssemblyReference.cache
+\\matrix.col.missouri.edu\ENGR-MUGL\jehn83\Desktop\War\War\obj\Debug\MainWindow.g.cs
+\\matrix.col.missouri.edu\ENGR-MUGL\jehn83\Desktop\War\War\obj\Debug\App.g.cs
+\\matrix.col.missouri.edu\ENGR-MUGL\jehn83\Desktop\War\War\obj\Debug\War_MarkupCompile.cache
+\\matrix.col.missouri.edu\ENGR-MUGL\jehn83\Desktop\War\War\obj\Debug\War_MarkupCompile.lref
+\\matrix.col.missouri.edu\ENGR-MUGL\jehn83\Desktop\War\War\obj\Debug\MainWindow.baml
+\\matrix.col.missouri.edu\ENGR-MUGL\jehn83\Desktop\War\War\obj\Debug\War.g.resources
+\\matrix.col.missouri.edu\ENGR-MUGL\jehn83\Desktop\War\War\obj\Debug\War.Properties.Resources.resources
+\\matrix.col.missouri.edu\ENGR-MUGL\jehn83\Desktop\War\War\obj\Debug\War.csproj.GenerateResource.Cache
+\\matrix.col.missouri.edu\ENGR-MUGL\jehn83\Desktop\War\War\obj\Debug\War.csproj.CoreCompileInputs.cache
+\\matrix.col.missouri.edu\ENGR-MUGL\jehn83\Desktop\War\War\obj\Debug\War.exe
+\\matrix.col.missouri.edu\ENGR-MUGL\jehn83\Desktop\War\War\obj\Debug\War.pdb
